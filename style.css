@@ -42,7 +42,12 @@ footer {
 }
 
 footer p {
+<<<<<<< HEAD
     color: white;
     padding-top: 300px;
+=======
+    color: rgb(254, 254, 254);
+    background-color: rgb(55, 54, 54);
+>>>>>>> add-footer
     text-align: center;
 }
