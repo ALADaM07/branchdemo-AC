@@ -25,8 +25,12 @@ main h3 {
     padding-top: 37px;
 }
 
+footer {
+    padding-top: 270px;
+}
+
 footer p {
     color: white;
-    padding-top: 300px;
+    background-color: rgb(55, 54, 54);
     text-align: center;
 }
