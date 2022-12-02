@@ -36,3 +36,9 @@ main h3 {
     text-align: center;
     padding-top: 37px;
 }
+
+footer p {
+    color: white;
+    padding-top: 300px;
+    text-align: center;
+}
