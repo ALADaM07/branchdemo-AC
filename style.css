@@ -37,8 +37,20 @@ main h3 {
     padding-top: 37px;
 }
 
+main p {
+    color:white;
+    padding: 50px;
+    font-size: 24px;
+    text-align: center;
+}
+
+main p span {
+    color: black;
+    background-color: white;
+}
+
 footer {
-    padding-top: 200px;
+    padding-top: 100px;
 }
 
 footer p {
